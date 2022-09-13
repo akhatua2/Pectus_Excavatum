@@ -14,8 +14,5 @@ Due to the large size of the rendered environment all of the files are avaiable 
 ```
 https://drive.google.com/drive/folders/16IgRE_nHvdfyPPT9f1DXbAYjI9Tyrq_N?usp=sharing
 ```
-<p style="padding:20px;">
-  <img src="https://github.com/akhatua2/Pectus_Excavatum/blob/master/images/ezgif.com-gif-maker.gif" width="350" title="bar insertion" align="right"/>
-</p>
 
 In the procedure the bar can be controlled by the user using mouse or a VR headset. These movements are recorded to collect data for the path planning algorithm. The idea is to make a small incision on the side of the chest. The bar is then curved to the ideal shape of the chesta nd then inserted in the upside fashion. After insertion the bar is flipped in order to push the breastbone up and in the ideal position. In the unity 3D space the bar interacts with the skin of the and can we moved freely.
